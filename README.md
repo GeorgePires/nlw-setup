@@ -1,6 +1,8 @@
-# nlw-setup
-Trilha Explorer do NLW Setup da Rocketseat
+<h1 align="center"> Habits</h1>
 
+<p align="center">
+  Trilha Explorer do NLW Setup da Rocketseat
+</p>
 <br>
 
 <p align="center">
@@ -15,6 +17,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - JavaScript
 - Figma
+
+
+## 💻 Projeto
+
+O Habits é um app para ajudar a rastrear os hábitos.
+
+- [Visite o projeto](https://georgepires.github.io/nlw-setup/)
 
 ## 🔖 Layout
 
